@@ -1,28 +1,23 @@
 Gizlilik Politikası
 
+Son Güncellenme: 19/01/2024
 
-Son güncellenme: 18/01/2024
+Bu gizlilik politikası, tarafımızdan sunulan İskambilcinin El Kitabı uygulamasının veya web sitesinin kullanımı sırasında toplanan bilgileri açıklar. Bu politika, uygulamanın veya web sitesinin kullanıcılarına sağladığı hizmetlere ilişkin bilgileri içermez, çünkü uygulamamız veya web sitemiz kişisel veri toplamaz veya işlemez.
 
-Uygulamamız hiçbir kullanıcı verisini toplamamakta, işlememekte ve paylaşmamaktadır.
+Toplanan Bilgiler
+İskambilcinin El Kitabı, kullanıcıların kişisel verilerini toplamaz, depolamaz veya işlemez. Kullanıcılar tarafından sağlanan hiçbir kişisel bilgi toplanmaz.
 
+Çerezler
+İskambilcinin El Kitabı, kullanıcıları tanımak veya izlemek amacıyla çerez veya benzeri teknolojiler kullanmaz.
 
-KVKK madde 11 uyarınca herkes, veri sorumlusuna başvurarak aşağıdaki haklarını kullanabilir:
+Üçüncü Taraf Bağlantıları
+İskambilcinin El Kitabı, kullanıcılara yönlendirme amacıyla üçüncü taraf web sitelerine veya uygulamalara bağlantılar sağlamaz.
 
-Kişisel veri işlenip işlenmediğini öğrenme,
-Kişisel verileri işlenmişse buna ilişkin bilgi talep etme,
-Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,
-Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme,
-Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme,
-Kişisel verilerin silinmesini veya yok edilmesini isteme,
-(e) ve (f) bentleri uyarınca yapılan işlemlerin, kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme,
-İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme,
-Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde zararın giderilmesini talep etme, haklarına sahiptir.
+Çocukların Gizliliği
+İskambilcinin El Kitabı, 13 yaşın altındaki çocuklardan bilgi toplamaz. Eğer 13 yaşın altında bir çocuksanız, lütfen ebeveyninizin veya yasal vasinizin izni olmadan bu uygulamayı veya web sitesini kullanmayın.
 
-Yukarıda sayılan haklarınızı kullanmak üzere bbzorba@gmail.com üzerinden bizimle iletişime geçebilirsiniz.
+Değişiklikler
+Bu gizlilik politikası, değiştirilebilir. Herhangi bir güncelleme, değişiklik veya revizyon yürürlüğe girdiğinde, güncellenmiş politikaya erişim sağlamak amacıyla kullanıcıları bilgilendirmek için uygun bir bildirim sağlanacaktır.
 
-
-Barış Berk Zorba
-
-+49 160 8354620
-
-bbzorba@gmail.com
+İletişim
+Bu gizlilik politikası ile ilgili herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen iletisim@ornek.com adresinden bize ulaşın.
